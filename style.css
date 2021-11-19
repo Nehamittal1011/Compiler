@@ -1,0 +1,23 @@
+body{
+  background-color: #f8edeb;
+}
+
+#code{
+  background-color:white
+  color: white;
+  font-size: 15px;
+}
+
+#output{
+  background-color: #171717;
+  color: #EDEDED;
+}
+
+#lang{
+  margin-left: 595px;
+}
+
+#compile{
+  background-color:#d8e2dc;
+  font-size: 20px;
+}
